@@ -139,19 +139,49 @@
       "4.5"
     ],
     "category": [
+      "MODES",
       "RATES"
     ],
     "author": [
       "fusone"
     ],
     "keywords": [
+      "adjustments",
+      "aux",
       "freestyle",
       "fusone",
+      "mode",
+      "modes",
       "rates",
+      "reset",
+      "switch",
       "whoop"
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.5/modes/fusone.txt",
+      "hash": "e9f346d2e2fcce5872eee639eb01a632533d9c5da451e5bf336210732dc6ae2a",
+      "title": "Fusone Modes & Adjustments",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "fusone",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "fusone",
+      "priority": 0
+    },
     {
       "fullPath": "presets/4.5/rates/fusone.txt",
       "hash": "cec41c1f6ef1676fdd496889022db877bd0c44945ba78fba1d872a2014c6db88",

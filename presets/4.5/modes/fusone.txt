@@ -1,0 +1,25 @@
+#$ TITLE: Fusone Modes & Adjustments
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: fusone, reset, mode, modes, adjustments, aux, switch
+#$ AUTHOR: fusone
+#$ DESCRIPTION: Resets modes and adjustment ranges to fusone's defaults
+
+# aux switch settings
+
+aux 0 0 0 1950 2050 0 0
+aux 1 1 6 1150 1250 0 0
+aux 2 2 6 1350 1450 0 0
+aux 3 13 1 1950 2050 0 0
+aux 4 19 1 1450 1550 0 0
+aux 5 35 3 1950 2050 0 0
+aux 6 36 5 1950 2050 0 0
+
+# adjustment ranges
+
+adjrange 0 0 2 950 1050 12 2 0 0
+adjrange 1 0 2 1450 1550 12 2 0 0
+adjrange 2 0 2 1950 2050 12 2 0 0
