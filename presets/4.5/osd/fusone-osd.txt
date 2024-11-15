@@ -8,6 +8,7 @@
 #$ AUTHOR: fusone
 #$ PARSER: MARKED
 #$ PRIORITY: 1
+#$ FORCE_OPTIONS_REVIEW: TRUE
 
 #$ DESCRIPTION:
 #$ DESCRIPTION: Fusone's OSD settings for analog and digital FPV

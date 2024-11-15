@@ -191,7 +191,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/fusone-osd.txt",
-      "hash": "55c82a0cace954d1bd2014b41b9b1ee8f028b1d74fb5bab7fc2bb070593cd927",
+      "hash": "60a64591757ebbc2f68aa24601ee591c25f8b0330e3a303221fc1d648e4af0e0",
       "title": "Fusone OSD",
       "firmware_version": [
         "4.3",
@@ -210,7 +210,8 @@
         "hdzero"
       ],
       "author": "fusone",
-      "priority": 1
+      "priority": 1,
+      "force_options_review": true
     },
     {
       "fullPath": "presets/4.5/rates/fusone-rates.txt",
