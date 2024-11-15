@@ -140,6 +140,7 @@
     ],
     "category": [
       "MODES",
+      "OSD",
       "RATES"
     ],
     "author": [
@@ -147,11 +148,17 @@
     ],
     "keywords": [
       "adjustments",
+      "analog",
       "aux",
+      "digital",
+      "dji",
       "freestyle",
       "fusone",
+      "hdzero",
       "mode",
       "modes",
+      "on screen display",
+      "osd",
       "rates",
       "reset",
       "switch",
@@ -160,7 +167,7 @@
   },
   "presets": [
     {
-      "fullPath": "presets/4.5/modes/fusone.txt",
+      "fullPath": "presets/4.5/modes/fusone-modes.txt",
       "hash": "dee3f87f3ce330b771afd99fdf2655cadaec0dbdb479f036f723d339e557dcd9",
       "title": "Fusone Modes & Adjustments",
       "firmware_version": [
@@ -183,7 +190,30 @@
       "priority": 1
     },
     {
-      "fullPath": "presets/4.5/rates/fusone.txt",
+      "fullPath": "presets/4.5/osd/fusone-osd.txt",
+      "hash": "55c82a0cace954d1bd2014b41b9b1ee8f028b1d74fb5bab7fc2bb070593cd927",
+      "title": "Fusone OSD",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "fusone",
+        "osd",
+        "on screen display",
+        "analog",
+        "digital",
+        "dji",
+        "hdzero"
+      ],
+      "author": "fusone",
+      "priority": 1
+    },
+    {
+      "fullPath": "presets/4.5/rates/fusone-rates.txt",
       "hash": "cae89df2f99d582b59eb3b669d947bf23f52c016a9eac3248ad7e020db4c7220",
       "title": "Fusone Rates",
       "firmware_version": [
