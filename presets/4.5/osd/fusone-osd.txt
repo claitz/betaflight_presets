@@ -4,7 +4,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: fusone, osd, on screen display, analog, digital, dji, hdzero
+#$ KEYWORDS: fusone, osd, on screen display, analog, digital, hdzero
 #$ AUTHOR: fusone
 #$ PARSER: MARKED
 #$ PRIORITY: 10
@@ -41,6 +41,12 @@ set pilot_name = fusone
     set osd_canvas_height = 13
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): Digital OSD
-
+#$ OPTION BEGIN (UNCHECKED): HDZero OSD
+    set vcd_video_system = HD
+    set osd_link_quality_pos = 2529
+    set osd_tim_2_pos = 3595
+    set osd_mah_drawn_pos = 3564
+    set osd_avg_cell_voltage_pos = 2561
+    set osd_canvas_width = 50
+    set osd_canvas_height = 18
 #$ OPTION END

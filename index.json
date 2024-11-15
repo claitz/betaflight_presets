@@ -151,7 +151,6 @@
       "analog",
       "aux",
       "digital",
-      "dji",
       "freestyle",
       "fusone",
       "hdzero",
@@ -191,7 +190,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/fusone-osd.txt",
-      "hash": "c232ed748320b466dfea109ed6855e05bb4ded7466df26d1ba70c103c0bd9a8c",
+      "hash": "cebd6c1bb24589fafc5030f22a18692ae340b04138cea3c66853fd61be5ae6b8",
       "title": "Fusone OSD",
       "firmware_version": [
         "4.3",
@@ -206,7 +205,6 @@
         "on screen display",
         "analog",
         "digital",
-        "dji",
         "hdzero"
       ],
       "author": "fusone",
