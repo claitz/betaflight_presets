@@ -153,7 +153,7 @@
   },
   "presets": [
     {
-      "fullPath": "presets/rates/fusone.txt",
+      "fullPath": "presets/4.5/rates/fusone.txt",
       "hash": "9c93bcb0b57bc4299935976d78280549a651541406b2b7c3de3211fe1e404c40",
       "title": "fusone rates",
       "firmware_version": [
