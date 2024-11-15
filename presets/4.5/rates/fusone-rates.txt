@@ -6,7 +6,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: fusone, rates, freestyle, whoop
 #$ AUTHOR: fusone
-#$ PRIORITY: -1
+#$ PRIORITY: 10
 
 #$ PARSER: MARKED
 
