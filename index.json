@@ -161,7 +161,7 @@
   "presets": [
     {
       "fullPath": "presets/4.5/modes/fusone.txt",
-      "hash": "e9f346d2e2fcce5872eee639eb01a632533d9c5da451e5bf336210732dc6ae2a",
+      "hash": "dee3f87f3ce330b771afd99fdf2655cadaec0dbdb479f036f723d339e557dcd9",
       "title": "Fusone Modes & Adjustments",
       "firmware_version": [
         "4.3",
@@ -180,11 +180,11 @@
         "switch"
       ],
       "author": "fusone",
-      "priority": 0
+      "priority": 1
     },
     {
       "fullPath": "presets/4.5/rates/fusone.txt",
-      "hash": "bcf7eebcd648ca8dc44a7d38cf6949edf6bcafb3ff0e8c02ef7a9fbcc023ad6b",
+      "hash": "cae89df2f99d582b59eb3b669d947bf23f52c016a9eac3248ad7e020db4c7220",
       "title": "Fusone Rates",
       "firmware_version": [
         "4.3",
@@ -200,7 +200,7 @@
         "whoop"
       ],
       "author": "fusone",
-      "priority": 0
+      "priority": 1
     }
   ]
 }

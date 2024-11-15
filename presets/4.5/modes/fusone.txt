@@ -6,7 +6,12 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: fusone, reset, mode, modes, adjustments, aux, switch
 #$ AUTHOR: fusone
-#$ DESCRIPTION: Resets modes and adjustment ranges to fusone's defaults
+#$ PARSER: MARKED
+#$ PRIORITY: 1
+
+#$ DESCRIPTION:
+#$ DESCRIPTION: Fusone's modes and adjustments
+#$ DESCRIPTION: 
 
 # aux switch settings
 

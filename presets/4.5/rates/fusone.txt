@@ -6,15 +6,13 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: fusone, rates, freestyle, whoop
 #$ AUTHOR: fusone
+#$ PRIORITY: 1
 
 #$ PARSER: MARKED
 
 #$ DESCRIPTION:
 #$ DESCRIPTION: Fusone's rates for freestyle and whoop flying
 #$ DESCRIPTION: 
-
-
-#$ PRIORITY: 0
 
 set rates_type = ACTUAL
 set quickrates_rc_expo = OFF
