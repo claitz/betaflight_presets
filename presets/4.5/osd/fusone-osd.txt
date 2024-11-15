@@ -17,6 +17,7 @@
 set pilot_name = fusone
 
 #$ OPTION BEGIN (UNCHECKED): Analog OSD
+    set vcd_video_system = NTSC
     set osd_warn_bitmask = 264189
     set osd_vbat_pos = 193
     set osd_rssi_pos = 314
