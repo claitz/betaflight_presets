@@ -1,4 +1,4 @@
-#$ TITLE: fusone rates
+#$ TITLE: Fusone Rates
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
@@ -10,7 +10,7 @@
 #$ PARSER: MARKED
 
 #$ DESCRIPTION:
-#$ DESCRIPTION: Actual rates used by fusone
+#$ DESCRIPTION: Fusone's rates for freestyle and whoop flying
 #$ DESCRIPTION: 
 
 
