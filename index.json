@@ -154,7 +154,7 @@
   "presets": [
     {
       "fullPath": "presets/4.5/rates/fusone.txt",
-      "hash": "9c93bcb0b57bc4299935976d78280549a651541406b2b7c3de3211fe1e404c40",
+      "hash": "cec41c1f6ef1676fdd496889022db877bd0c44945ba78fba1d872a2014c6db88",
       "title": "fusone rates",
       "firmware_version": [
         "4.3",
@@ -170,7 +170,7 @@
         "whoop"
       ],
       "author": "fusone",
-      "priority": 10000
+      "priority": 0
     }
   ]
 }

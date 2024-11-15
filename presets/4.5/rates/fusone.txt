@@ -14,7 +14,7 @@
 #$ DESCRIPTION: 
 
 
-#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/439
+#$ PRIORITY: 0
 
 set rates_type = ACTUAL
 set quickrates_rc_expo = OFF
