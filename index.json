@@ -168,7 +168,7 @@
   "presets": [
     {
       "fullPath": "presets/4.5/modes/fusone-modes.txt",
-      "hash": "dee3f87f3ce330b771afd99fdf2655cadaec0dbdb479f036f723d339e557dcd9",
+      "hash": "bf01a100c8bf5d7a5a3cdf9a1d62e4b5f120a526c094127399a1093d0729f007",
       "title": "Fusone Modes & Adjustments",
       "firmware_version": [
         "4.3",
@@ -187,11 +187,11 @@
         "switch"
       ],
       "author": "fusone",
-      "priority": 1
+      "priority": -1
     },
     {
       "fullPath": "presets/4.5/osd/fusone-osd.txt",
-      "hash": "60a64591757ebbc2f68aa24601ee591c25f8b0330e3a303221fc1d648e4af0e0",
+      "hash": "4f16ef3d635530d6a81e1831e9a644b4a522552a03765e1cf016bf908b5d5d0f",
       "title": "Fusone OSD",
       "firmware_version": [
         "4.3",
@@ -210,12 +210,12 @@
         "hdzero"
       ],
       "author": "fusone",
-      "priority": 1,
+      "priority": -1,
       "force_options_review": true
     },
     {
       "fullPath": "presets/4.5/rates/fusone-rates.txt",
-      "hash": "cae89df2f99d582b59eb3b669d947bf23f52c016a9eac3248ad7e020db4c7220",
+      "hash": "ebf45bf45fe6fa33fcbe5a686303ac49fee1e198a7cb57f242bcbf85bf369c6f",
       "title": "Fusone Rates",
       "firmware_version": [
         "4.3",
@@ -231,7 +231,7 @@
         "whoop"
       ],
       "author": "fusone",
-      "priority": 1
+      "priority": -1
     }
   ]
 }

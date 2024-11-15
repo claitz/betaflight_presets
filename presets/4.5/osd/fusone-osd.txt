@@ -7,7 +7,7 @@
 #$ KEYWORDS: fusone, osd, on screen display, analog, digital, dji, hdzero
 #$ AUTHOR: fusone
 #$ PARSER: MARKED
-#$ PRIORITY: 1
+#$ PRIORITY: -1
 #$ FORCE_OPTIONS_REVIEW: TRUE
 
 #$ DESCRIPTION:

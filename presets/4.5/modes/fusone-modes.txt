@@ -7,7 +7,7 @@
 #$ KEYWORDS: fusone, reset, mode, modes, adjustments, aux, switch
 #$ AUTHOR: fusone
 #$ PARSER: MARKED
-#$ PRIORITY: 1
+#$ PRIORITY: -1
 
 #$ DESCRIPTION:
 #$ DESCRIPTION: Fusone's modes and adjustments
