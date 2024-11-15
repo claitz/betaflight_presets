@@ -133,10 +133,66 @@
     }
   },
   "uniqueValues": {
-    "firmware_version": [],
-    "category": [],
-    "author": [],
-    "keywords": []
+    "firmware_version": [
+      "4.3",
+      "4.4",
+      "4.5"
+    ],
+    "category": [
+      "RATES"
+    ],
+    "author": [
+      "Betaflight",
+      "fusone"
+    ],
+    "keywords": [
+      "actual",
+      "defaults",
+      "freestyle",
+      "fusone",
+      "rates",
+      "whoop"
+    ]
   },
-  "presets": []
+  "presets": [
+    {
+      "fullPath": "presets/rates/defaults.txt",
+      "hash": "2332860e14d485b5656987b1d79d5af4e2cc9e5005cd23e8c067aaac48350087",
+      "title": "Default rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "rates",
+        "actual"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/rates/fusone.txt",
+      "hash": "9c93bcb0b57bc4299935976d78280549a651541406b2b7c3de3211fe1e404c40",
+      "title": "fusone rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "fusone",
+        "rates",
+        "freestyle",
+        "whoop"
+      ],
+      "author": "fusone",
+      "priority": 10000
+    }
+  ]
 }

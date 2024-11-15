@@ -10,10 +10,9 @@
 #$ PARSER: MARKED
 
 #$ DESCRIPTION:
-#$ DESCRIPTION:
-#$ DESCRIPTION: By default it's Actual rates with 800 degrees/sec max for all axis. Betaflight rates option (checkbox) provides Botgrinder OG Betaflight rates with 816 degrees/sec max.
-#$ DESCRIPTION:
-#$ DESCRIPTION: Botgrinder is a prominent figure in th FPV drone community. Well known for his entertaining content.
+#$ DESCRIPTION: Actual rates used by fusone
+#$ DESCRIPTION: 
+
 
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/439
 
