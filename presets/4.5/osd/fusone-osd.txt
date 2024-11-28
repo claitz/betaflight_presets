@@ -41,7 +41,30 @@ set pilot_name = fusone
     set osd_canvas_height = 13
 #$ OPTION END
 
-#$ OPTION BEGIN (UNCHECKED): HDZero OSD
+#$ OPTION BEGIN (UNCHECKED): HDZero OSD 4:3
+    set vcd_video_system = HD
+    set osd_vbat_pos = 45
+    set osd_rssi_pos = 33
+    set osd_link_quality_pos = 2566
+    set osd_rssi_dbm_pos = 1450
+    set osd_tim_1_pos = 1066
+    set osd_tim_2_pos = 3622
+    set osd_flymode_pos = 1514
+    set osd_g_force_pos = 65
+    set osd_throttle_pos = 1481
+    set osd_vtx_channel_pos = 33
+    set osd_crosshairs_pos = 345
+    set osd_current_pos = 480
+    set osd_mah_drawn_pos = 3591
+    set osd_craft_name_pos = 499
+    set osd_warnings_pos = 2580
+    set osd_avg_cell_voltage_pos = 2598
+    set osd_disarmed_pos = 469
+    set osd_esc_rpm_pos = 161
+    set osd_core_temp_pos = 14903
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): HDZero OSD 16:9
     set vcd_video_system = HD
     set osd_link_quality_pos = 2529
     set osd_tim_2_pos = 3595
