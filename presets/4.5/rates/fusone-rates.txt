@@ -14,6 +14,8 @@
 #$ DESCRIPTION: Fusone's rates for freestyle and whoop flying
 #$ DESCRIPTION: 
 
+rateprofile 0
+set rateprofile_name = fusone
 set rates_type = ACTUAL
 set quickrates_rc_expo = OFF
 set roll_rc_rate = 7
