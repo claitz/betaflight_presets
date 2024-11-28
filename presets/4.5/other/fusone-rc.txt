@@ -1,0 +1,18 @@
+#$ TITLE: Fusone RC
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: RC_LINK
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: fusone, reset, rc link, rc_link
+#$ AUTHOR: fusone
+#$ PARSER: MARKED
+#$ PRIORITY: 10
+
+#$ DESCRIPTION:
+#$ DESCRIPTION: Fusone's RC link settings
+#$ DESCRIPTION:
+
+set expresslrs_uid = 126,51,58,34,37,254
+set expresslrs_rate_index = 1
+set expresslrs_switch_mode = WIDE
