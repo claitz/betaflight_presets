@@ -16,3 +16,4 @@
 set expresslrs_uid = 126,51,58,34,37,254
 set expresslrs_rate_index = 1
 set expresslrs_switch_mode = WIDE
+map AETR1234
