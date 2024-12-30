@@ -42,7 +42,7 @@ set pitch_srate = 81
 set yaw_srate = 70
 
 rateprofile 1
-set rateprofile_name = fusone_fast
+set rateprofile_name = fusfast
 set rates_type = ACTUAL
 set quickrates_rc_expo = OFF
 set roll_rc_rate = 7
