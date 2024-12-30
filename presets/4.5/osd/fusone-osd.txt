@@ -17,27 +17,28 @@
 set pilot_name = fusone
 
 #$ OPTION BEGIN (UNCHECKED): Analog OSD
-    set vcd_video_system = NTSC
     set osd_warn_bitmask = 264189
     set osd_vbat_pos = 193
     set osd_rssi_pos = 314
-    set osd_link_quality_pos = 2080
+    set osd_link_quality_pos = 2113
     set osd_link_tx_power_pos = 1
-    set osd_rssi_dbm_pos = 2048
-    set osd_tim_2_pos = 2071
+    set osd_rssi_dbm_pos = 2081
+    set osd_tim_2_pos = 2103
     set osd_flymode_pos = 57
     set osd_throttle_pos = 89
     set osd_vtx_channel_pos = 16410
     set osd_current_pos = 352
-    set osd_mah_drawn_pos = 408
+    set osd_mah_drawn_pos = 2424
     set osd_craft_name_pos = 44
     set osd_pilot_name_pos = 396
-    set osd_warnings_pos = 2314
-    set osd_avg_cell_voltage_pos = 2103
-    set osd_disarmed_pos = 2283
+    set osd_altitude_pos = 18477
+    set osd_warnings_pos = 2376
+    set osd_avg_cell_voltage_pos = 2401
+    set osd_disarmed_pos = 2411
     set osd_esc_tmp_pos = 376
     set osd_esc_rpm_pos = 216
-    set osd_core_temp_pos = 56
+    set osd_core_temp_pos = 2135
+    set osd_stat_bitmask = 1879049252
     set osd_canvas_height = 13
 #$ OPTION END
 
