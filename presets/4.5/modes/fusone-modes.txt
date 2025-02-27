@@ -28,3 +28,8 @@ aux 6 36 5 1950 2050 0 0
 adjrange 0 0 2 950 1050 12 2 0 0
 adjrange 1 0 2 1450 1550 12 2 0 0
 adjrange 2 0 2 1950 2050 12 2 0 0
+
+# beacon
+beacon RX_LOST
+beacon RX_SET
+set beeper_dshot_beacon_tone = 3
