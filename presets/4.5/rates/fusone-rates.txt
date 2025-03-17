@@ -15,7 +15,7 @@
 #$ DESCRIPTION: 
 
 rateprofile 0
-set rateprofile_name = fusjuicy
+set rateprofile_name = juicy
 set rates_type = ACTUAL
 set quickrates_rc_expo = OFF
 set roll_rate_limit = 1998
@@ -33,7 +33,7 @@ set pitch_srate = 120
 set yaw_srate = 120
 
 rateprofile 1
-set rateprofile_name = fusjuicy2
+set rateprofile_name = juicy2
 set rates_type = ACTUAL
 set quickrates_rc_expo = OFF
 set roll_rate_limit = 1998
