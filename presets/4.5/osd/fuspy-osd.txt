@@ -1,20 +1,20 @@
-#$ TITLE: Fusone OSD
+#$ TITLE: fuspy OSD
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: fusone, osd, on screen display, analog, digital, hdzero
-#$ AUTHOR: fusone
+#$ KEYWORDS: fuspy, osd, on screen display, analog, digital, hdzero
+#$ AUTHOR: fuspy
 #$ PARSER: MARKED
 #$ PRIORITY: 10
 #$ FORCE_OPTIONS_REVIEW: TRUE
 
 #$ DESCRIPTION:
-#$ DESCRIPTION: Fusone's OSD settings for analog and digital FPV
+#$ DESCRIPTION: fuspy's OSD settings for analog and digital FPV
 #$ DESCRIPTION: 
 
-set pilot_name = fusone
+set pilot_name = fuspy
 
 #$ OPTION BEGIN (UNCHECKED): Analog OSD
     set osd_warn_bitmask = 264189

@@ -1,16 +1,16 @@
-#$ TITLE: Fusone Modes & Adjustments
+#$ TITLE: fuspy Modes & Adjustments
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: fusone, reset, mode, modes, adjustments, aux, switch
-#$ AUTHOR: fusone
+#$ KEYWORDS: fuspy, reset, mode, modes, adjustments, aux, switch
+#$ AUTHOR: fuspy
 #$ PARSER: MARKED
 #$ PRIORITY: 10
 
 #$ DESCRIPTION:
-#$ DESCRIPTION: Fusone's modes and adjustments
+#$ DESCRIPTION: fuspy's modes and adjustments
 #$ DESCRIPTION: 
 
 # aux switch settings

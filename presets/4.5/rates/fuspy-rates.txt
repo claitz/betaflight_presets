@@ -1,17 +1,17 @@
-#$ TITLE: Fusone Rates
+#$ TITLE: fuspy Rates
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: RATES
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: fusone, rates, freestyle, whoop
-#$ AUTHOR: fusone
+#$ KEYWORDS: fuspy, rates, freestyle, whoop
+#$ AUTHOR: fuspy
 #$ PRIORITY: 10
 
 #$ PARSER: MARKED
 
 #$ DESCRIPTION:
-#$ DESCRIPTION: Fusone's rates for freestyle and whoop flying
+#$ DESCRIPTION: fuspy's rates for freestyle and whoop flying
 #$ DESCRIPTION: 
 
 rateprofile 0

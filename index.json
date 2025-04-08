@@ -141,10 +141,11 @@
     "category": [
       "MODES",
       "OSD",
-      "RATES"
+      "RATES",
+      "RC_LINK"
     ],
     "author": [
-      "fusone"
+      "fuspy"
     ],
     "keywords": [
       "adjustments",
@@ -152,13 +153,15 @@
       "aux",
       "digital",
       "freestyle",
-      "fusone",
+      "fuspy",
       "hdzero",
       "mode",
       "modes",
       "on screen display",
       "osd",
       "rates",
+      "rc link",
+      "rc_link",
       "reset",
       "switch",
       "whoop"
@@ -166,9 +169,9 @@
   },
   "presets": [
     {
-      "fullPath": "presets/4.5/modes/fusone-modes.txt",
-      "hash": "b25e31bbf80a0fe29b94d023be82a35782c8f112480b80734b833ef649268778",
-      "title": "Fusone Modes & Adjustments",
+      "fullPath": "presets/4.5/modes/fuspy-modes.txt",
+      "hash": "96f196248141b7d257d1f6fb105bf699489da1abf9dcdbf544f4d5a062b6b4aa",
+      "title": "fuspy Modes & Adjustments",
       "firmware_version": [
         "4.3",
         "4.4",
@@ -177,7 +180,7 @@
       "category": "MODES",
       "status": "COMMUNITY",
       "keywords": [
-        "fusone",
+        "fuspy",
         "reset",
         "mode",
         "modes",
@@ -185,13 +188,13 @@
         "aux",
         "switch"
       ],
-      "author": "fusone",
+      "author": "fuspy",
       "priority": 10
     },
     {
-      "fullPath": "presets/4.5/osd/fusone-osd.txt",
-      "hash": "cebd6c1bb24589fafc5030f22a18692ae340b04138cea3c66853fd61be5ae6b8",
-      "title": "Fusone OSD",
+      "fullPath": "presets/4.5/osd/fuspy-osd.txt",
+      "hash": "d8de21e61dace4e03f0e501d0440d74c6a38eec90031e054910517110954fd9a",
+      "title": "fuspy OSD",
       "firmware_version": [
         "4.3",
         "4.4",
@@ -200,21 +203,41 @@
       "category": "OSD",
       "status": "COMMUNITY",
       "keywords": [
-        "fusone",
+        "fuspy",
         "osd",
         "on screen display",
         "analog",
         "digital",
         "hdzero"
       ],
-      "author": "fusone",
+      "author": "fuspy",
       "priority": 10,
       "force_options_review": true
     },
     {
-      "fullPath": "presets/4.5/rates/fusone-rates.txt",
-      "hash": "3af71afa28409baa876f55aa00f0d263217474fb0eea79cbc3674b75160968cb",
-      "title": "Fusone Rates",
+      "fullPath": "presets/4.5/other/fuspy-rc.txt",
+      "hash": "665d6968116939c7ec4eebb90c13462924149720746513ecc0ef126b0677d437",
+      "title": "fuspy RC",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "COMMUNITY",
+      "keywords": [
+        "fuspy",
+        "reset",
+        "rc link",
+        "rc_link"
+      ],
+      "author": "fuspy",
+      "priority": 10
+    },
+    {
+      "fullPath": "presets/4.5/rates/fuspy-rates.txt",
+      "hash": "4d26573826c07058c966bd156b7ed7a260a5f6b256010f17b25ef33a5286d3af",
+      "title": "fuspy Rates",
       "firmware_version": [
         "4.3",
         "4.4",
@@ -223,12 +246,12 @@
       "category": "RATES",
       "status": "COMMUNITY",
       "keywords": [
-        "fusone",
+        "fuspy",
         "rates",
         "freestyle",
         "whoop"
       ],
-      "author": "fusone",
+      "author": "fuspy",
       "priority": 10
     }
   ]
