@@ -1,0 +1,20 @@
+#$ TITLE: fuspy Defaults
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: BNF
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: fuspy, defaults
+#$ AUTHOR: fuspy
+#$ PARSER: MARKED
+#$ PRIORITY: 10
+
+#$ DESCRIPTION:
+#$ DESCRIPTION: fuspy's defaults BF settings
+#$ DESCRIPTION: 
+
+set pilot_name = fuspy
+set small_angle = 180
+beacon RX_LOST
+beacon RX_SET
+set beeper_dshot_beacon_tone = 3

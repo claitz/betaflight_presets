@@ -13,23 +13,29 @@
 #$ DESCRIPTION: fuspy's modes and adjustments
 #$ DESCRIPTION: 
 
-# aux switch settings
+#$ OPTION BEGIN (CHECKED): TBS Tango 2
+    aux 0 0 0 1950 2050 0 0
+    aux 1 1 6 1150 1250 0 0
+    aux 2 2 6 1350 1450 0 0
+    aux 3 13 1 950 1050 0 0
+    aux 4 19 1 1450 1550 0 0
+    aux 5 35 3 1950 2050 0 0
+    aux 6 36 4 1950 2050 0 0
+#$ OPTION END
 
-aux 0 0 0 1950 2050 0 0
-aux 1 1 6 1150 1250 0 0
-aux 2 2 6 1350 1450 0 0
-aux 3 13 1 1950 2050 0 0
-aux 4 19 1 1450 1550 0 0
-aux 5 35 3 1950 2050 0 0
-aux 6 36 5 1950 2050 0 0
+#$ OPTION BEGIN (UNCHECKED): ELRS
+    # aux switch settings
 
-# adjustment ranges
+    aux 0 0 0 1950 2050 0 0
+    aux 1 1 6 1150 1250 0 0
+    aux 2 2 6 1350 1450 0 0
+    aux 3 13 1 1950 2050 0 0
+    aux 4 19 1 1450 1550 0 0
+    aux 5 35 3 1950 2050 0 0
+    aux 6 36 5 1950 2050 0 0
 
-adjrange 0 0 2 950 1050 12 2 0 0
-adjrange 1 0 2 1450 1550 12 2 0 0
-adjrange 2 0 2 1950 2050 12 2 0 0
-
-# beacon
-beacon RX_LOST
-beacon RX_SET
-set beeper_dshot_beacon_tone = 3
+    # adjustment ranges
+    adjrange 0 0 2 950 1050 12 2 0 0
+    adjrange 1 0 2 1450 1550 12 2 0 0
+    adjrange 2 0 2 1950 2050 12 2 0 0
+#$ OPTION END

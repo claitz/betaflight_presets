@@ -13,7 +13,13 @@
 #$ DESCRIPTION: fuspy's RC link settings
 #$ DESCRIPTION:
 
-set expresslrs_uid = 126,51,58,34,37,254
-set expresslrs_rate_index = 1
-set expresslrs_switch_mode = WIDE
-map AETR1234
+#$ OPTION BEGIN (CHECKED): Crossfire
+    map TAER1234
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): ExpressLRS
+    set expresslrs_uid = 126,51,58,34,37,254
+    set expresslrs_rate_index = 1
+    set expresslrs_switch_mode = WIDE
+    map AETR1234
+#$ OPTION END
