@@ -1,13 +1,14 @@
-#$ TITLE: fuspy Defaults
+#$ TITLE: fuspy Modes & Adjustments
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
-#$ CATEGORY: BNF
+#$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: fuspy, defaults
 #$ AUTHOR: fuspy
 #$ PARSER: MARKED
 #$ PRIORITY: 10
+
 
 #$ DESCRIPTION:
 #$ DESCRIPTION: fuspy's defaults BF settings

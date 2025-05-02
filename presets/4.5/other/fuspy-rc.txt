@@ -15,6 +15,7 @@
 
 #$ OPTION BEGIN (CHECKED): Crossfire
     map TAER1234
+    set serialrx_inverted = OFF
 #$ OPTION END
 
 #$ OPTION BEGIN (UNCHECKED): ExpressLRS
