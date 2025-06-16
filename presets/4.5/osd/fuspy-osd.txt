@@ -65,6 +65,34 @@
     set osd_canvas_height = 13
 #$ OPTION END
 
+#$ OPTION BEGIN (UNCHECKED): Analog OSD Simplified (Whoops)
+    set osd_warn_bitmask = 264173
+    set osd_vbat_pos = 193
+    set osd_rssi_pos = 314
+    set osd_link_quality_pos = 2433
+    set osd_link_tx_power_pos = 1
+    set osd_rssi_dbm_pos = 2401
+    set osd_tim_2_pos = 55
+    set osd_flymode_pos = 57
+    set osd_throttle_pos = 89
+    set osd_vtx_channel_pos = 16410
+    set osd_current_pos = 352
+    set osd_mah_drawn_pos = 2424
+    set osd_craft_name_pos = 44
+    set osd_pilot_name_pos = 396
+    set osd_altitude_pos = 16429
+    set osd_warnings_pos = 2441
+    set osd_avg_cell_voltage_pos = 2455
+    set osd_disarmed_pos = 2411
+    set osd_esc_tmp_pos = 376
+    set osd_esc_rpm_pos = 216
+    set osd_core_temp_pos = 87
+    set osd_stat_bitmask = 1060
+    set osd_displayport_device = AUTO
+    set osd_canvas_width = 30
+    set osd_canvas_height = 13
+#$ OPTION END
+
 #$ OPTION BEGIN (UNCHECKED): HDZero OSD 4:3
     set vcd_video_system = HD
     set osd_vbat_pos = 45
